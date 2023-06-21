@@ -1,0 +1,2 @@
+SELECT FORMAT(SUM(LAT_N), "##.##"), FORMAT(SUM(LONG_W), "##.##")
+FROM STATION;
